@@ -1,16 +1,81 @@
-# 💫 About Me:
-Hi 👋, I’m Alakh  <br>A Computer Science student with a strong interest in web development and problem-solving.  <br>I enjoy turning ideas into real projects and continuously improving my coding skills.  <br>Currently working with HTML, CSS, JavaScript, Python, and Git/GitHub.  <br>Always eager to learn, build, and grow as a developer 💻✨<br>
+<h1 align="center">Hi 👋, I'm Alakh Niranjan</h1>
+<h3 align="center">AI-Focused Full-Stack Developer | Building Intelligent Web Applications</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alakh-niranjan-722676399) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alakhx-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alakhx-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alakhx-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Boy Coding on Laptop">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Alakhx-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I am a passionate Full-Stack Developer focused on building scalable, intelligent, and production-ready web applications.
+
+With strong interest in Artificial Intelligence and modern web technologies, I enjoy transforming ideas into real-world digital products. I specialize in designing clean UI architectures and integrating powerful backend systems.
+
+- 🔭 Currently building AI-powered web applications  
+- 🧠 Exploring advanced AI system architecture  
+- 💻 Focused on React, TypeScript, Supabase & Flask  
+- ⚡ Strong interest in scalable SaaS product development  
+- 📈 Continuously learning and improving as a developer  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### ⚙️ Backend
+- Python (Flask)  
+- Supabase  
+- REST APIs  
+- JSON  
+
+### 🤖 AI & Tools
+- Gemini API  
+- Claude API  
+- OpenRouter (GPT-4o)  
+- Git & GitHub  
+- Render  
+- Vercel  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alakhx-dev&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready AI assistants  
+- Designing premium UI/UX experiences  
+- Learning scalable backend architecture  
+- Developing SaaS-level applications  
+
+---
+
+## 💡 Vision
+
+To build intelligent systems that combine modern web architecture with powerful AI models — delivering meaningful, real-world digital experiences.
