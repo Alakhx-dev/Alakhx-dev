@@ -2,22 +2,22 @@
 <h3 align="center">AI-Focused Full-Stack Developer | Building Intelligent Web Applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Developer Coding Animation">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Dark Aesthetic Coding GIF">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer focused on building scalable, intelligent, and production-ready web applications.
+I am a Full-Stack Developer passionate about building scalable, AI-powered web applications with clean architecture and modern design principles.
 
-With a strong interest in Artificial Intelligence and modern web technologies, I enjoy transforming ideas into real-world digital products. I specialize in designing clean UI architectures and integrating powerful backend systems.
+I enjoy transforming complex ideas into structured, production-ready systems that combine intelligent backend logic with premium user interfaces.
 
-- 🔭 Currently building AI-powered web applications  
-- 🧠 Exploring advanced AI system architecture  
-- 💻 Focused on React, TypeScript, Supabase & Flask  
-- ⚡ Interested in scalable SaaS product development  
-- 📈 Continuously learning and improving  
+- 🔭 Currently building AI-driven SaaS applications  
+- 🧠 Exploring advanced AI architecture & model integration  
+- 💻 Specialized in React, TypeScript, Supabase & Flask  
+- ⚡ Focused on performance, scalability, and clean UI/UX  
+- 📈 Constantly learning and evolving as a developer  
 
 ---
 
@@ -43,15 +43,6 @@ Gemini API • Claude API • OpenRouter • Git • GitHub • Render • Verce
 
 ---
 
-## 🎯 Current Focus
-
-- Building production-ready AI assistants  
-- Designing premium UI/UX experiences  
-- Learning scalable backend architecture  
-- Developing SaaS-level applications  
-
----
-
 ## 💡 Vision
 
-To build intelligent systems that combine modern web architecture with powerful AI models — delivering meaningful digital experiences.
+To build intelligent digital systems that combine modern web architecture with powerful AI — creating meaningful, real-world impact.
