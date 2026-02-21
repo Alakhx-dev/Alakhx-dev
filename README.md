@@ -1,48 +1,85 @@
-<h1 align="center">Hi 👋, I'm Alakh Niranjan</h1>
-<h3 align="center">AI-Focused Full-Stack Developer | Building Intelligent Web Applications</h3>
+<h1 align="center">Alakh Niranjan</h1>
+<h3 align="center">AI-Focused Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Dark Aesthetic Coding GIF">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Professional Coding Workspace Animation" />
+</p>
+
+<p align="center">
+  Building intelligent, scalable web applications with modern architecture and clean design.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Full-Stack Developer passionate about building scalable, AI-powered web applications with clean architecture and modern design principles.
+I am a Full-Stack Developer with a strong focus on Artificial Intelligence and modern web technologies.  
+I build production-ready applications that combine structured backend systems with intuitive and responsive frontend experiences.
 
-I enjoy transforming complex ideas into structured, production-ready systems that combine intelligent backend logic with premium user interfaces.
+My work reflects practical understanding of:
 
-- 🔭 Currently building AI-driven SaaS applications  
-- 🧠 Exploring advanced AI architecture & model integration  
-- 💻 Specialized in React, TypeScript, Supabase & Flask  
-- ⚡ Focused on performance, scalability, and clean UI/UX  
-- 📈 Constantly learning and evolving as a developer  
+- Scalable architecture design  
+- AI model integration  
+- Authentication systems  
+- Persistent data handling  
+- Clean UI/UX implementation  
+- Performance optimization  
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-React • TypeScript • Vite • Tailwind CSS • HTML5 • CSS3 • JavaScript  
-
-### ⚙️ Backend
-Python (Flask) • Supabase • REST APIs • JSON  
-
-### 🤖 AI & Tools
-Gemini API • Claude API • OpenRouter • Git • GitHub • Render • Vercel  
+I am continuously improving my technical depth while building real-world applications.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Core Technologies
+
+**Frontend**
+- React  
+- TypeScript  
+- Vite  
+- Tailwind CSS  
+
+**Backend**
+- Python (Flask)  
+- Supabase  
+- REST APIs  
+
+**AI Integration**
+- Gemini  
+- Claude  
+- OpenRouter (GPT-4o)  
+
+**Tools & Deployment**
+- Git & GitHub  
+- Render  
+- Vercel  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alakhx-dev&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alakhx-dev&theme=default" width="48%" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- Developing AI-powered SaaS applications  
+- Designing premium, responsive UI systems  
+- Exploring advanced AI architecture patterns  
+- Strengthening backend scalability skills  
+
+---
+
+## 🌐 Connect
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
 ## 💡 Vision
 
-To build intelligent digital systems that combine modern web architecture with powerful AI — creating meaningful, real-world impact.
+To build intelligent digital products that merge modern web architecture with advanced AI capabilities — delivering meaningful and scalable solutions.
