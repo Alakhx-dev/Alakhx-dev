@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alakh Niranjan</h1>
-<h3 align="center">AI-Focused Full-Stack Developer | Building Intelligent Web Applications</h3>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Developer Coding Animation">
@@ -15,32 +15,37 @@
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer focused on building scalable, intelligent, and production-ready web applications.
+I am a full-stack developer focused on building scalable, efficient, and intelligent web applications.
 
-With a strong interest in Artificial Intelligence and modern web technologies, I enjoy transforming ideas into real-world digital products. I specialize in designing clean UI architectures and integrating powerful backend systems.
+I enjoy designing clean user interfaces, developing structured backend systems, and integrating modern technologies to create real-world digital solutions. My approach emphasizes clarity in architecture, performance optimization, and practical implementation.
 
-- 🔭 Currently building AI-powered web applications  
-- 🧠 Exploring advanced AI system architecture  
-- 💻 Focused on React, TypeScript, Supabase & Flask  
-- ⚡ Interested in scalable SaaS product development  
-- 📈 Continuously learning and improving  
+I continuously explore new technologies while strengthening my foundation in software engineering principles.
+
+- 🔭 Building production-ready applications  
+- 🧠 Exploring Artificial Intelligence & system architecture  
+- 💻 Strong focus on modern frontend & backend development  
+- ⚡ Interested in scalable SaaS and intelligent systems  
+- 📈 Always learning and evolving  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 ### 💻 Frontend
-React • TypeScript • Vite • Tailwind CSS • HTML5 • CSS3 • JavaScript  
+React • TypeScript • JavaScript • Vite • Tailwind CSS • HTML5 • CSS3  
 
 ### ⚙️ Backend
-Python (Flask) • Supabase • REST APIs • JSON  
+Python • Flask • Supabase • REST APIs • JSON  
 
-### 🤖 AI & Tools
-Gemini API • Claude API • OpenRouter • Git • GitHub • Render • Vercel  
+### 🤖 AI & Integration
+AI Model APIs • API Architecture • Context Handling • System Design  
+
+### 🧰 Tools & Deployment
+Git • GitHub • Render • Vercel • VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=tokyonight" width="47%" />
@@ -49,15 +54,16 @@ Gemini API • Claude API • OpenRouter • Git • GitHub • Render • Verce
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I Focus On
 
-- Building production-ready AI assistants  
-- Designing premium UI/UX experiences  
-- Learning scalable backend architecture  
-- Developing SaaS-level applications  
+- Writing clean, maintainable code  
+- Designing structured system architecture  
+- Building responsive and intuitive user interfaces  
+- Integrating intelligent backend logic  
+- Delivering real-world usable solutions  
 
 ---
 
 ## 💡 Vision
 
-To build intelligent systems that combine modern web architecture with powerful AI models — delivering meaningful digital experiences.
+To build intelligent and scalable digital systems that combine modern web technologies with thoughtful engineering — creating solutions that are both powerful and practical.
