@@ -1,85 +1,63 @@
-<h1 align="center">Alakh Niranjan</h1>
-<h3 align="center">AI-Focused Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Alakh Niranjan</h1>
+<h3 align="center">AI-Focused Full-Stack Developer | Building Intelligent Web Applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Professional Coding Workspace Animation" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Developer Coding Animation">
 </p>
 
 <p align="center">
-  Building intelligent, scalable web applications with modern architecture and clean design.
+  <a href="https://www.linkedin.com/in/alakh-niranjan-722676399" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alakh%20Niranjan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Full-Stack Developer with a strong focus on Artificial Intelligence and modern web technologies.  
-I build production-ready applications that combine structured backend systems with intuitive and responsive frontend experiences.
+I am a passionate Full-Stack Developer focused on building scalable, intelligent, and production-ready web applications.
 
-My work reflects practical understanding of:
+With a strong interest in Artificial Intelligence and modern web technologies, I enjoy transforming ideas into real-world digital products. I specialize in designing clean UI architectures and integrating powerful backend systems.
 
-- Scalable architecture design  
-- AI model integration  
-- Authentication systems  
-- Persistent data handling  
-- Clean UI/UX implementation  
-- Performance optimization  
-
-I am continuously improving my technical depth while building real-world applications.
+- 🔭 Currently building AI-powered web applications  
+- 🧠 Exploring advanced AI system architecture  
+- 💻 Focused on React, TypeScript, Supabase & Flask  
+- ⚡ Interested in scalable SaaS product development  
+- 📈 Continuously learning and improving  
 
 ---
 
-## 🛠 Core Technologies
+## 🛠 Tech Stack
 
-**Frontend**
-- React  
-- TypeScript  
-- Vite  
-- Tailwind CSS  
+### 💻 Frontend
+React • TypeScript • Vite • Tailwind CSS • HTML5 • CSS3 • JavaScript  
 
-**Backend**
-- Python (Flask)  
-- Supabase  
-- REST APIs  
+### ⚙️ Backend
+Python (Flask) • Supabase • REST APIs • JSON  
 
-**AI Integration**
-- Gemini  
-- Claude  
-- OpenRouter (GPT-4o)  
-
-**Tools & Deployment**
-- Git & GitHub  
-- Render  
-- Vercel  
+### 🤖 AI & Tools
+Gemini API • Claude API • OpenRouter • Git • GitHub • Render • Vercel  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alakhx-dev&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alakhx-dev&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alakhx-dev&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Developing AI-powered SaaS applications  
-- Designing premium, responsive UI systems  
-- Exploring advanced AI architecture patterns  
-- Strengthening backend scalability skills  
-
----
-
-## 🌐 Connect
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+- Building production-ready AI assistants  
+- Designing premium UI/UX experiences  
+- Learning scalable backend architecture  
+- Developing SaaS-level applications  
 
 ---
 
 ## 💡 Vision
 
-To build intelligent digital products that merge modern web architecture with advanced AI capabilities — delivering meaningful and scalable solutions.
+To build intelligent systems that combine modern web architecture with powerful AI models — delivering meaningful digital experiences.
